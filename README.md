@@ -11,7 +11,7 @@ HEY GUYS, esta aplicação se chama App de Delivery(ou Delivery App, como quiser
                               |||{>---------- Tecnologias Utilizadas ----------<}|||
 
   Neste projeto utilizamos várias tecnologias, boa parte delas baseadas em JS.
-  No Front-ent utilizamos REACT moderno(com Hooks), CSS puro, SAAS, Axios, Style-lint, ES-Lint ... afim de termos um bom e rápido desenvolvimento. Nessa parte foi de suma importância a vizualizção através de esboço do FIGMA, dessa forma sabíamos exatamente onde ir e o que por no seu devido lugar.
+  No Front-ent utilizamos REACT moderno(com Hooks), CSS puro, Sass, Axios, Style-lint, ES-Lint ... afim de termos um bom e rápido desenvolvimento. Nessa parte foi de suma importância a vizualizção através de esboço do FIGMA, dessa forma sabíamos exatamente onde ir e o que por no seu devido lugar.
   Já no Back-end foi feito um CRUD no padrão RESTApi utilizando Node.js, ORM(Sequelize), MySql, Docker(ficou a critério de cada membro pode escolher utilizar ou não, afinal ficar subindo e derrubando container para testar custou um bom tempo para um dos integrantes tendo em vista que foi um prazo OK, mas essa decisão atrapalhou o mesmo na questão do tempo), modelo MSC, utilizamos também Middlewares, Seeders, Migrations, Variáveis de Ambiente (.env), JsonWebToken, Express, express-async-erros(para tratar e deixar os controllers mais limpos), MD5 além também do JS puro com HOFs...
 
                                           :: Como Foi Desenvolvido ::
