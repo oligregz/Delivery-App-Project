@@ -1,0 +1,17 @@
+.DeliveryAddressDetails {
+  padding: 3%;
+}
+
+h2 {
+  padding: 1%;
+  text-align: left;
+}
+
+.form {
+  border: 1px solid black;
+  padding: 1%;
+}
+
+button {
+  background-color: darkcyan;
+}

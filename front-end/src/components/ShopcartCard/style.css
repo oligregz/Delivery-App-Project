@@ -1,0 +1,15 @@
+.cart-button {
+  background-color: green;
+  color: white;
+  height: 50px;
+  line-height: 50px;
+  position: fixed;
+  right: 15px;
+  text-align: center;
+  top: 15px;
+  width: 200px;
+}
+
+.cart-button:disabled {
+  background-color: red;
+}

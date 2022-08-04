@@ -1,0 +1,23 @@
+.FinalizeOrder {
+  padding: 3%;
+}
+
+.itens {
+  border: 1px solid black;
+  padding: 3%;
+}
+
+th, td {
+  text-align: left;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+
+.Describle {
+  text-align: left;
+  width: 19%;
+}

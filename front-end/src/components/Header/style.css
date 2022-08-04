@@ -1,0 +1,8 @@
+header {
+  background: #1abc9c;
+  display: flex;
+  flex-direction: 'row';
+  height: 60;
+  justify-content: space-between;
+  padding: 3%;
+}

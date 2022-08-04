@@ -1,0 +1,7 @@
+.conteiner {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  padding: 5px;
+  width: 95%;
+}
