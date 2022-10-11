@@ -16,6 +16,6 @@ HEY GUYS, esta aplicação se chama App de Delivery(ou Delivery App, como quiser
 
                                           :: Como Foi Desenvolvido ::
 
-  O projeto teve o desenvolvimento guiado a testes pela lib PM2 já implementados pelo curso(Trybe), tanto para o front quanto para o back.
+  O projeto teve o desenvolvimento guiado a testes com gerenciamento de processos feito com a lib PM2 já implementados pelo curso(Trybe), tanto para o front quanto para o back.
   Teve a branch principal(main-group-13) que a partir dela foram criadas outras branchs com um padrão, por exemplo: 'main-group-13-create-nav-bar', 'main-group-13-create-card' ...
   onde eram implementadas as novas funcionalidades, testadas, feitas Code Review e só então atendendo a aprovação dessas fases, era feito o merge afim de matermos SEMPRE, EVER e "SEMPREVER" as boas práticas de desenvolvimento.
